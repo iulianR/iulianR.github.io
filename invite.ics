@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20220814T200000Z
+DTEND:20220814T210000Z
+DTSTAMP:20220811T204259Z
+ORGANIZER;CN=ruxandrasimion93@gmail.com:mailto:ruxandrasimion93@gmail.com
+UID:0C959CDC-8803-45B2-8A48-CE3E52C4C4F5
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=iulian.ruxi@gmail.com;X-NUM-GUESTS=0:mailto:iulian.ruxi@gmail.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=ruxandrasimion93@gmail.com;X-NUM-GUESTS=0:mailto:ruxandrasimion93@gmail
+ .com
+X-MICROSOFT-CDO-OWNERAPPTID:1857540880
+CREATED:20220811T204254Z
+DESCRIPTION:Aiaiai \n\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edit this section of the descri
+ ption.\n\nView your event at https://calendar.google.com/calendar/event?act
+ ion=VIEW&eid=XzYxMWppZDlwOGQyNDZiOW83MG8zNmI5azZsMTM0YjlvODRxM2diYTM4a3BrYW
+ Q5aThjcTQ2ZDI2NmsgaXVsaWFuLnJ1eGlAbQ&tok=MjYjcnV4YW5kcmFzaW1pb245M0BnbWFpbC
+ 5jb203NjlkNjdjNzM0MWJhZTYzODJiMWM5ZWVkNTllZTcxNDc2YTE1NjE1&ctz=Europe%2FBuc
+ harest&hl=en&es=1.\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20220811T204254Z
+LOCATION:No no no
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Un test de calendar 
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
